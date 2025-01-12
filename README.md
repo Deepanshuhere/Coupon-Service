@@ -1,9 +1,9 @@
 # Coupon Service Project
 
-This is a Spring Boot-based coupon service built using **Java 8**, **Spring Boot**, and **MongoDB**.
+This is a Spring Boot-based coupon service built using **Java**, **Spring Boot**, and **MongoDB**.
 
 ## Tech Stack
-- **Java 8**
+- **Java**
 - **Spring Boot**
 - **MongoDB**
 
